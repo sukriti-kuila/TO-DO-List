@@ -1,5 +1,5 @@
 # Live Website 
-[Click Here To View](https://pages.github.com/)
+[Click Here To View](https://todolist-sukriti.netlify.com)
 
 # Screenshots
 ![screenshot-1](https://user-images.githubusercontent.com/87015685/154021546-969a3ec3-66b5-470e-8ba7-ac00ff3bc08c.png)
